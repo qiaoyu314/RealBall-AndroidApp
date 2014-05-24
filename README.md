@@ -1,6 +1,8 @@
 -Real-Ball--Android-App-
 ========================
+This project has been moved to qiaoyu314/Real-Ball-Android-Studio
 
+----------------------------------------------------------------
 Contributors: Yu Qiao, Marty Keegan, Lingchen Xiong.
 
 The project done in "advanced mobile application development" course taught by Rajiv Ramnath at the Ohio State Unversity  
